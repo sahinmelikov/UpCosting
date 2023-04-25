@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\bin\Debug\net6.0\UpCusting_DownCusting.exe
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\bin\Debug\net6.0\UpCusting_DownCusting.deps.json
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\bin\Debug\net6.0\UpCusting_DownCusting.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\bin\Debug\net6.0\UpCusting_DownCusting.dll
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\bin\Debug\net6.0\UpCusting_DownCusting.pdb
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\UpCusting_DownCusting.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\UpCusting_DownCusting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\UpCusting_DownCusting.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\UpCusting_DownCusting.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\UpCusting_DownCusting.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\UpCusting_DownCusting.dll
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\refint\UpCusting_DownCusting.dll
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\UpCusting_DownCusting.pdb
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\UpCusting_DownCusting.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\UpCusting_DownCusting\UpCusting_DownCusting\obj\Debug\net6.0\ref\UpCusting_DownCusting.dll
